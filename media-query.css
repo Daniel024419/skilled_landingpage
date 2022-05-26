@@ -247,9 +247,9 @@ top: 54%;
     
   
     .group1{
-        left: 142vw;
-        font-size: 50px;
-        width: 40vw;
+        left: 159vw;
+        font-size: 30px;
+        width: 27vw;
         top: 50px;
          
     }
@@ -274,15 +274,9 @@ top:65%;
 
 
 }
-.pic
-{
 
-
-height: 78vh;
-left: 54.6vw;
-
-top: 0.25%;
- 
+.rectangle{
+    left: 132vw;
 }
 /*
  tags**/
@@ -932,7 +926,7 @@ margin-top: 100px;
         display: none;
     }
     .header{
-        left: 15px;
+        left: 22px;
         font-size: 14px;
     }
     .group2{
@@ -941,9 +935,9 @@ margin-top: 100px;
     }
     #msg{
         font-size: 18px;
-        width: 90vw;
-        left: -13px;
-        top:17vh;
+        width: 98vw;
+        left: -.01px;
+        top:14vh;
       
             }
          
@@ -951,7 +945,7 @@ margin-top: 100px;
     
   
     .group1{
-        left: 500px;
+        left: 590px;
         font-size: 12px;
         width: 70px;
          
@@ -959,6 +953,7 @@ margin-top: 100px;
     .msg-head{
         font-size: 71px;
         width: 90vw;
+         
     }
 
     .responsive{
@@ -1009,7 +1004,7 @@ width: 300px;
 
 .block-container{
     width: 100%;
-    height: 180%;
+    height: 190%;
      
     top: 88vh; 
     display: list-item;
@@ -1048,7 +1043,7 @@ left: 5vw;
 .block3{
     width:89vw;
     height: 13%;
-    top: 59.5vh;
+    top: 62.5vh;
     left: 5vw;
     }
     
@@ -1061,7 +1056,7 @@ left: 5vw;
     .block4{
         width:89vw;
         height: 13%;
-        top: 86vh;
+        top: 91vh;
         left: 5vw;
         }
         
@@ -1074,7 +1069,7 @@ left: 5vw;
         .block5{
             width:89vw;
             height: 13%;
-            top: 113vh;
+            top: 119vh;
             left: 5vw;
             }
             
@@ -1087,7 +1082,7 @@ left: 5vw;
             .block6{
                 width:89vw;
                 height: 13%;
-                top: 139vh;
+                top: 147vh;
                 left: 5vw;
                 }
                 
@@ -2917,8 +2912,17 @@ border-radius: 50%;
     height: 55vh;
 left: 0px;
 border-radius: 50%;
-top: 0.25%;
+top: 59.25%;
  
+}
+.responsive{
+    display: initial;
+    
+}
+.responsive-pic{
+    margin-top: 72vh;
+    height: 60vh;
+  
 }
 
   /* tags**/
@@ -3109,6 +3113,16 @@ border-radius: 50%;
 top: 0.25%;
  
 }
+.responsive{
+    display: initial;
+    
+}
+.responsive-pic{
+    margin-top: 92vh;
+    height: 69vh;
+    margin-left: 10px;
+  
+}
 
   /* tags**/
   .case1{
@@ -3161,6 +3175,7 @@ width: 200px;
 .block1{
     width:77%;
     height: 9%;
+    left: 12.9vw;
 }
 .block1-text{
     height: 120px;
@@ -3299,7 +3314,16 @@ top: 0.25%;
  
 }
 
- 
+.responsive{
+    display: initial;
+    
+}
+.responsive-pic{
+    margin-top: 92vh;
+    height: 69vh;
+    margin-left: 10px;
+  
+}
   .case1{
     position: absolute;
     width: 18%;
